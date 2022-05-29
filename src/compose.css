@@ -1,0 +1,31 @@
+/*
+ * I hate CSS.
+ * Please someone make something actually decent.
+*/
+
+body {
+    background: #1E1D2F;
+    color: #D9E0EE;
+    font-size: 1em;
+}
+
+#report-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title {
+    padding: 3px;
+    font-weight: 500;
+    font-size: 2em;
+}
+
+.netiquette-error {
+    text-align: center;
+    margin: 5px 2px;
+    padding: 10px;
+    width: 90%;
+    border: 1px #F5C2E7 solid;
+    border-radius: 5px;
+}
