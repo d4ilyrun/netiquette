@@ -6,9 +6,7 @@ A thunderbird extension for EPITA students that checks if a draft follows the ne
 
 ## How to install
 
-### Through the add-ons store
-
-> TODO
+This add-on is available [here](https://addons.thunderbird.net/en-US/thunderbird/addon/epita-netiquette-checker/).
 
 ### Manually
 
